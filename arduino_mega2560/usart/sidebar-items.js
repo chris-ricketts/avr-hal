@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Baudrate",""]],"trait":[["BaudrateArduinoExt",""],["BaudrateExt",""]],"type":[["Usart0",""],["Usart1",""],["Usart2",""],["Usart3",""]]});
